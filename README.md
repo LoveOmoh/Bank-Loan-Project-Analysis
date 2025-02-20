@@ -1,5 +1,8 @@
 # Bank-Loan-Project-Analysis
 
+![4ykvoxwu](https://github.com/user-attachments/assets/1c54cdd9-14f6-4546-9b74-63cf3e83d20b)
+
+
 ## Aim of Project
 ---
 The aim of this project is to provide insights into key loan-related metrics and their changes over time.
